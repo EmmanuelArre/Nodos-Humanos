@@ -12,7 +12,7 @@ En una lista simple, cada nodo apunta únicamente al siguiente. El último apunt
 
 Se representa el recorrido desde el nodo cabeza, avanzando de un nodo al siguiente hasta llegar al final de la lista.
 
-[▶ Ver video 1.1](Visdeos/1.1..mp4)
+[▶ Ver video 1.1](1.1..mp4)
 
 ### Video 1.2 — Inserción al inicio
 
