@@ -80,6 +80,3 @@ Material complementario de la actividad práctica de nodos humanos.
 
 [▶ Ver video extra 2](extra2.mp4)
 
----
-
-**Nota:** Las descripciones de los videos numerados siguen el orden de los retos del documento de la actividad. Los archivos adicionales no tienen un título descriptivo que permita identificar su ejercicio exacto. Conserva la carpeta `Visdeos/` junto a este `README.md` para que los enlaces funcionen en GitHub.
